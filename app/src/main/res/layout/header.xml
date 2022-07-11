@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="200dp"
+    android:background="@color/lightwhite">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Online book store"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="10dp"
+        android:id="@+id/slogan"
+
+        android:layout_marginLeft="15dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Book-e-Sell"
+        android:fontFamily="@font/antic"
+        android:textSize="24dp"
+        android:id="@+id/t2"
+        android:layout_above="@id/slogan"
+        android:layout_marginLeft="15dp"
+        android:textColor="@color/black"/>
+
+    <ImageView
+        android:layout_above="@id/t2"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:src="@drawable/logo2"/>
+
+
+</RelativeLayout>

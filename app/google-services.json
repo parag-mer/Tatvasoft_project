@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "735618405645",
+    "project_id": "book-e-sell",
+    "storage_bucket": "book-e-sell.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735618405645:android:ddfb45811d457b0c6f0c44",
+        "android_client_info": {
+          "package_name": "com.example.book_e_sell"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735618405645-5mhnd8l5jbddaks6ntle5hododst3eev.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTVb6d00-PZmOqJqbDHYvkmRWfGVjEcUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "735618405645-5mhnd8l5jbddaks6ntle5hododst3eev.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735618405645:android:9c4fa17ec336e90d6f0c44",
+        "android_client_info": {
+          "package_name": "com.tatvasoft.book_e_sell"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735618405645-5mhnd8l5jbddaks6ntle5hododst3eev.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTVb6d00-PZmOqJqbDHYvkmRWfGVjEcUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "735618405645-5mhnd8l5jbddaks6ntle5hododst3eev.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
